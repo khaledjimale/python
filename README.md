@@ -9,3 +9,6 @@ A growing collection of standalone Python scripts, terminal games, and practice 
 
 ## 🚀 Getting Started
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/khaledjimale/python.git
